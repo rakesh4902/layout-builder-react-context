@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.configCont {
+  background-color: #475569;
+  padding-left: 30px;
+  padding: 20px;
+}
+
+.layoutHead {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-weight: bold;
+}
+
+.cont {
+  color: #ffffff;
+}

@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.bodyCont {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.leftBar {
+  width: 30%;
+  background-color: #e2e8f0;
+  padding: 15px;
+}
+
+.leftHead {
+  font-size: 20px;
+  color: #64748b;
+  font-family: 'roboto';
+}
+
+.leftPara {
+  font-size: 15px;
+  padding-left: 5px;
+  color: #64748b;
+  font-family: 'roboto';
+  list-style-type: none;
+}
+
+.Content {
+  width: 40%;
+  background-color: #f1f5f9;
+  padding: 20px;
+  align-items: center;
+}
+
+.rightNavBar {
+  width: 30%;
+  background-color: #e2e8f0;
+  padding: 25px;
+  align-items: center;
+}
+
+.addBtn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid 3px #cbd5e1;
+  height: 100px;
+  width: 120px;
+  padding: 5px;
+  background-color: transparent;
+  margin: 5px;
+}
+
+.addBtnCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
